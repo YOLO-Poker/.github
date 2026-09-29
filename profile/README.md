@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="art/yolo-logo.webp" alt="YoLo Poker Club Logo" width="320" height="320" />
+  <img src="../art/yolo-logo.webp" alt="YoLo Poker Club Logo" width="320" height="320" />
 </p>
 
 <h1 align="center">YoLo Poker Club</h1>
